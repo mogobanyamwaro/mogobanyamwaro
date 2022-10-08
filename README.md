@@ -4,7 +4,7 @@
 
 Passionate software engineer with a particular focus on Fullstack development with React|Node|Postgres|Mongo.
 
-- 🔭 Currently working with Fleetsimplfy
+- 🔭 Currently working with IFunza
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 Ask me about IOT,
