@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Douglas mogoba nyamwaro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nyamwaro-993517192/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mogoba-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nyamwaro-993517192/)
 
 
 
