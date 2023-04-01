@@ -65,4 +65,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mogobanyamwaro&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogobanyamwaroEngineer)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogobadeveloper)](https://github.com/anuraghazra/github-readme-stats)
