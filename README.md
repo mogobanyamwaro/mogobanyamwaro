@@ -64,5 +64,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogobanyamwaro)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mogobanyamwaro&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mogobanyamwaro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogobadeveloper)](https://github.com/anuraghazra/github-readme-stats)
