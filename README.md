@@ -57,7 +57,7 @@
 ---
 
 ### :fire: My Stats :
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mogobanyamwaro)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mogobanyamwaro) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogobanyamwaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
