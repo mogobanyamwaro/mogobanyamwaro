@@ -66,4 +66,3 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mogobanyamwaro&show_icons=true&count_private=true) -->
  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogobadeveloper)](https://github.com/anuraghazra/github-readme-stats)
