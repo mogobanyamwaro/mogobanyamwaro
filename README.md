@@ -1,3 +1,9 @@
+## Contact Information
+- **Location:** Nairobi County, Kenya
+- **Email:** douglasnyamwaro289@gmail.com
+- **Phone:** +254 725 523 820
+- **LinkedIn:** [linkedin.com/in/douglas-nyamwaro-993517192](https://www.linkedin.com/in/douglas-nyamwaro-993517192)
+
 ![Snake animation](https://github.com/mogobanyamwaro/mogobanyamwaro/blob/output/github-contribution-grid-snake.svg)
 
 # 😎 About Me
