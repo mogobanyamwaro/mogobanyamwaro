@@ -24,6 +24,48 @@ With a comprehensive background encompassing over four years in software enginee
 
   **Professional Approach:**
   I thrive on solving complex problems and am committed to delivering high-quality solutions. With experience across educational, fleet management, farming, and business sectors, I possess a versatile skill set capable of addressing diverse challenges effectively. My background enables me to adapt quickly and contribute meaningfully to various projects and industries.
+  ## Professional Experience
+
+### Software Engineering Team Lead
+**iFunza, Inc.**  
+*Oct 2022 - Present*  
+- Managed multiple projects simultaneously, ensuring accurate delivery within project timelines.
+- Collaborated with Development Project Manager to meet project requirements.
+- Led a team to maintain high-quality software products and establish good development practices.
+- Evaluated various software products and provided peer review and solutions to related code.
+- Developed and contributed to the existing Frontend and Backend code base using technologies such as Next.js, Typescript, GraphQL, Fastify, Flutter, Digital Ocean, MongoDB, Prisma, and more.
+
+### Software Instructor
+**STEAMLabs Africa**  
+*Jul 2022 - Nov 2022*  
+- Reviewed code, debugged problems, and corrected issues while teaching.
+- Assisted teenagers in setting up projects from scratch and taught coding using Python.
+
+### Chief Technology Officer
+**FAINA TECH CONSULTANCY**  
+*Jan 2022 - Nov 2022*  
+- Developed the company's strategy using technological resources.
+- Ensured efficient, profitable, and secure use of technologies.
+- Evaluated and implemented new systems and infrastructure.
+
+### Full Stack Engineer
+**Fleetsimplify**  
+*Jan 2022 - Jun 2022*  
+- Reviewed code, debugged problems, and corrected issues.
+- Managed development milestones and consulted with engineering team members for system improvements.
+
+### Software Engineer
+**FAINA TECH CONSULTANCY**  
+*Jan 2020 - Jun 2022*  
+- Designed, developed, modified, and debugged programs.
+- Worked closely with clients to establish specifications and system designs.
+- Estimated work hours and tracked progress using Scrum methodology.
+
+### Shopify Developer
+**Upwork**  
+*2021 - Feb 2022*  
+- Customized Shopify themes and developed Shopify Apps to enhance user experience.
+
   <br> <br>
   **Quick Learner and Knowledge-Sharer:**
   Known for my adaptability and quick learning, I stay abreast of emerging technologies to ensure cutting-edge solutions. I find joy in sharing my knowledge with others, contributing to a collaborative and dynamic work environment.
