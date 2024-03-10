@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/mogobanyamwaro/mogobanyamwaro/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mogobanyamwaro/mogobanyamwaro/blob/output/github-contribution-grid-snake.svg)
 
 # 😎 About Me
 
