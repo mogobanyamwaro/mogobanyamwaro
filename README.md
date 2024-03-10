@@ -37,7 +37,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
@@ -54,8 +54,8 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mogobanyamwar) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogobanyamwar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogobanyamwaro)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogobanyamwaro)](https://github.com/anuraghazra/github-readme-stats) 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mogobanyamwaro&show_icons=true&count_private=true) -->
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mogobanyamwaro&show_icons=true&count_private=true
  
 
