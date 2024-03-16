@@ -17,7 +17,8 @@ With a comprehensive background encompassing over four years in software enginee
 
 - Full Stack Development (Next.js, Fastify, React, Redux Toolkit, Node.js, Nest.js, Python, Flask, Django)
 - Frontend Development (React, Ant Design, React Query, Zustand)
-- Backend Development (Fastify, Typescript, GraphQL, Node.js, MongoDB, Prisma)
+- Mobile Development (Flutter , React Native , Getx , Dio , RiverPod,Graphql Client)
+- Backend Development (Fastify, Typescript, GraphQL, Node.js, MongoDB, Prisma,TypeOrm)
 - Version Control (Git, GitHub)
 - Cloud Technologies (Digital Ocean)
 - Project Management Tools (Jira, Slack)
@@ -26,7 +27,7 @@ With a comprehensive background encompassing over four years in software enginee
 - Strategic Planning
 - Problem Solving
 - Business Planning
-- <br> <br>
+
 
   **Professional Approach:**
   I thrive on solving complex problems and am committed to delivering high-quality solutions. With experience across educational, fleet management, farming, and business sectors, I possess a versatile skill set capable of addressing diverse challenges effectively. My background enables me to adapt quickly and contribute meaningfully to various projects and industries.
