@@ -32,6 +32,11 @@ With a comprehensive background encompassing over four years in software enginee
   I thrive on solving complex problems and am committed to delivering high-quality solutions. With experience across educational, fleet management, farming, and business sectors, I possess a versatile skill set capable of addressing diverse challenges effectively. My background enables me to adapt quickly and contribute meaningfully to various projects and industries.
 
   <br />
+  <br />
+
+## 🎯 Projects:
+<br />
+
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
