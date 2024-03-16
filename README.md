@@ -34,7 +34,7 @@ With a comprehensive background encompassing over four years in software enginee
   <br />
   <br />
 
-## 🎯 Projects:
+## 🎯 Professional Projects:
 <br />
 
 
