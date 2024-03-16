@@ -30,6 +30,27 @@ With a comprehensive background encompassing over four years in software enginee
 
   **Professional Approach:**
   I thrive on solving complex problems and am committed to delivering high-quality solutions. With experience across educational, fleet management, farming, and business sectors, I possess a versatile skill set capable of addressing diverse challenges effectively. My background enables me to adapt quickly and contribute meaningfully to various projects and industries.
+
+  <br />
+
+| Title        | Type        | Description          | Technologies  |
+| ------------- | ------------- | ------------- | ----- |
+| [docuForce Mobile v2 (Android)](https://play.google.com/store/apps/details?id=ru.infologistics.docuforce&hl=ru&ah=bF0GLTxKkzr8QO_ZDbWXlzcZPHY) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart (Flutter Bloc, Dio, i18n, Firebase, GetIt, Freezed, etc.) |
+| [docuForce Mobile v2 (iOS)](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart (Flutter Bloc, Dio, i18n, Firebase, GetIt, Freezed, etc.) |
+| [docuForce](https://docuforce.infologistics.ru/login) | <div align='center' title='Commercial'>💰</div> | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
+| docuForce Mobile v1 (Android) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
+| docuForce Mobile v1 (iOS) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
+| [RM-Keeper](https://rm-keeper.infologistics.ru) | <div align='center' title='Commercial'>💰</div> | Electronic Storage System | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
+| [Frontend Libraries](https://www.npmjs.com/package/@infologistics/frontend-libraries) | <div align='center' title='Commercial'>💰</div> | Library for common frontend components | TypeScript, React, SCSS, Webpack/Rollup, Styleguidist |
+| [Resume](https://neikan.pro) | <div align='center' title='Private'>🔑</div> | My private page | TypeScript, React, SASS/SCSS, Webpack |
+| [Bloc](https://github.com/Neikan/sb13-flutter_bloc) | <div align='center' title='Training'>🎓</div> | E-commerce app with Flutter Bloc State Management | Flutter, Dart (Flutter Bloc, Dio, GetIt, Freezed) |
+| [Cubit](https://github.com/Neikan/sb13-cubit) | <div align='center' title='Training'>🎓</div> | E-commerce app with Cubit State Management | Flutter, Dart (Flutter Bloc, Dio, GetIt, Freezed) |
+| [Redux](https://github.com/Neikan/sb13-redux) | <div align='center' title='Training'>🎓</div> | E-commerce app with Redux State Management | Flutter, Dart (Flutter Redux, Redux, Dio, GetIt, Freezed) |
+| [Riverpod](https://github.com/Neikan/sb13-riverpod) | <div align='center' title='Training'>🎓</div> | E-commerce app with Riverpod State Management | Flutter, Dart (Flutter Riverpod, Dio, GetIt, Freezed) |
+| [Riverpod with hooks](https://github.com/Neikan/sb13-riverpod-hooks) | <div align='center' title='Training'>🎓</div> | E-commerce app with Riverpod State Management with hooks | Flutter, Dart (Flutter Riverpod, Flutter Hooks, Dio, GetIt, Freezed) |
+| [Stream Bloc](https://github.com/Neikan/sb13-stream-bloc) | <div align='center' title='Training'>🎓</div> | E-commerce app with Bloc State Management by Stream | Flutter, Dart (Dio, GetIt, Freezed) |
+| [SSM](https://github.com/Neikan/sb13-ssm) | <div align='center' title='Training'>🎓</div> | E-commerce app with Simple State Management | Flutter, Dart (Provider, Dio, GetIt, Freezed) |
+<br />
   ## Professional Experience
 
 ### Software Engineering Team Lead
