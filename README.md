@@ -20,7 +20,7 @@ With a comprehensive background encompassing over four years in software enginee
 - Mobile Development (Flutter , React Native , Getx , Dio , RiverPod,Graphql Client)
 - Backend Development (Fastify, Typescript, GraphQL, Node.js, MongoDB, Prisma,TypeOrm)
 - Version Control (Git, GitHub)
-- Cloud Technologies (Digital Ocean)
+- Cloud Technologies (Digital Ocean, AWS, Azure)
 - Project Management Tools (Jira, Slack)
 - Communication
 - Team Leadership
