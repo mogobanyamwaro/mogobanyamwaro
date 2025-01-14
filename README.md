@@ -3,6 +3,7 @@
 - **Email:** douglasnyamwaro289@gmail.com
 - **Phone:** +254 725 523 820
 - **LinkedIn:** [linkedin.com/in/douglas-nyamwaro-993517192](https://www.linkedin.com/in/douglas-nyamwaro-993517192)
+- **Introduction Video**  [Please watch My Introduction Video](https://www.loom.com/share/f8cca2dced8a4d6bb04c7035e1c186b1?sid=ee777c26-3640-4b3f-b389-33f583b0bbc2)  
 
 ![Snake animation](https://github.com/mogobanyamwaro/mogobanyamwaro/blob/output/github-contribution-grid-snake.svg)
 
